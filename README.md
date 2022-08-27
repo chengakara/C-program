@@ -4,13 +4,13 @@
   
   
   <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Certified+LABvieW+Associate+Developer;TECHY;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Certified+LABvieW+Associate+Developer;TECHY;Keep%20it%20simple%20,efficient&center=true&width=500&height=50"></a>
 </p>
   
   
 <div id="header" align="center">
 <img src="https://media2.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif?cid=790b7611281960ef7fd0a29b7d6dc5e01151e0c5f218318c&rid=giphy.gif&ct=g" width="200"/>
-  <img src=" https://media3.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif?cid=ecf05e472v3hhcvuw1r5n5i9jkfdla7s1a4rgo06jm1qs5y6&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media3.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif?cid=ecf05e472v3hhcvuw1r5n5i9jkfdla7s1a4rgo06jm1qs5y6&rid=giphy.gif&ct=g" width="200"/>
   <img src="https://media1.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif?cid=790b76119806458f20d18ed0f1a4806b3c855f75614d1bf3&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
@@ -26,7 +26,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 <div id="badges"align="center">
-<img src="https://komarev.com/ghpvc/?username=chengakara&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=chengakara&style=round-round&color=green" alt=""/>
 </div>
 	
 <p align="left">
@@ -55,40 +55,37 @@
   
   <br>
 
-## 🔥Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chengakara&theme=algolia" alt="chengakara" /></p>
+## ⚡ Streak Statistics⚡
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chengakara&theme=chartreuse-dark" alt="chengakara" /></p>
 
 <br>
 <br>
     
-    📊 Github Stats
+   ⚡ Github Stats ⚡
 
-
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <summary><b> ⚡ GitHub Profile Stats ⚡</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chengakara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chengakara&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chengakara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chengakara&show_icons=true&count_private=true&theme=chartreuse-dark" height="177px"/></a>
 <br/>
   &nbsp;
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chengakara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chengakara" height="192px"/>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chengakara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="chengakara" height="192px"/>
   <br/>
     ----
 
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <summary><b>⚡ Recent GitHub Activity ⚡</b></summary>
   <br/>
-   <a href="https://github.com/7oSkaaa"><img alt="chengakara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chengakara&custom_title=chengakara's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/7oSkaaa"><img alt="chengakara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chengakara&custom_title=chengakara's%20Contribution%20Graph&theme=chartreuse-dark" /></a>
   <br/>
 
 
-## :trophy: Git profile Trophies
+## :trophy: ⚡ Git profile Trophies ⚡
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengakara&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
-
------
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengakara&layout=compact&theme=monokai" alt="7oskaaa" /></a> </p>
+----
 Credits: [chengakara](https://github.com/chengakara)
 
-![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+![phuocantd snake gif](https://media1.giphy.com/media/d9QiBcfzg64Io/giphy.gif)
 
 
 
