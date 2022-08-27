@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi
-  <img src="https://bit.ly/321YxQi" width="30px"/>
+  <img src="https://bit.ly/3FPbWwR" width="30px"/>
   , I'm Mithhull Balaji
   
   
