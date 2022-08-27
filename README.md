@@ -1,3 +1,98 @@
+<h1 align="center">
+  Hi
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  , I'm Mithhull Balaji
+  
+  
+  <p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Electronics+and+Communication+Engineer;Circuit+Designer;Competitive+Programmer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+</p>
+  
+  
+<div id="header" align="center">
+<img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="200"/>
+</div>
+
+
+<div id="badges"align="center">
+  <a href="https://www.linkedin.com/in/mithhull-balaji-0795bb211/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/chengakara">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href=" https://twitter.com/MithhullBalaji">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+<div id="badges"align="center">
+<img src="https://komarev.com/ghpvc/?username=chengakara&style=flat-square&color=blue" alt=""/>
+</div>
+	
+<p align="left">
+  <samp>
+    <br><br>
+    - Electronics and Communication engineer
+    <br><br>
+    - Modern Problems require, Modern solutions-i have it with me
+    <br><br>
+    - I love using Software as a solution for every Problem, so i "keep it simple" and efficient
+    <br><br> 
+    - In my free time, I solve rubix cube 7X7,read tech articles,tech news and keep myself updated about what's happening around me
+    <br><br>  
+  </samp>
+</p>	
+
+  ---
+
+### :hammer_and_wrench: Languages and Tools :
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-line.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/embeddedc/embeddedc-original-wordmark.svg" title="Embedded C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  
+  
+  <br>
+
+## 🔥Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=chengakara&theme=algolia" alt="chengakara" /></p>
+
+<br>
+<br>
+    
+    📊 Github Stats
+
+
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="chengakara's Github Stats" src="https://github-readme-stats.vercel.app/api?username=chengakara&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chengakara&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="chengakara" height="192px"/>
+  <br/>
+    ----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/7oSkaaa"><img alt="chengakara's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=chengakara&custom_title=chengakara's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chengakara&layout=compact&theme=algolia" alt="7oskaaa" /></a> </p>
+
+-----
+Credits: [chengakara](https://github.com/chengakara)
+
+![phuocantd snake gif](https://github.com/phuocantd/phuocantd/blob/snake/github-contribution-grid-snake.svg)
+
+
+
 # C programming:-
 ------
 [Data Structure using c](/data%20structures/Data%20Structure.md)
