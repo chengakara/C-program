@@ -1,6 +1,5 @@
 <h1 align="center">
-  Hi
-  <img src="<iframe src="https://giphy.com/embed/ITRemFlr5tS39AzQUL" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/network-technologies-connectivity-ITRemFlr5tS39AzQUL">via GIPHY</a></p>" width="30px"/>
+  Hey
   , I'm Mithhull Balaji
   
   
@@ -10,9 +9,9 @@
   
   
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/DZrp2DjxS7P5aVzmOj/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="200"/>
+<img src="https://media2.giphy.com/media/l1J9KU2KmTwzptMD6/giphy.gif?cid=790b7611281960ef7fd0a29b7d6dc5e01151e0c5f218318c&rid=giphy.gif&ct=g" width="200"/>
+  <img src=" https://media3.giphy.com/media/26tOY3KjQUL9YhRT2/giphy.gif?cid=ecf05e472v3hhcvuw1r5n5i9jkfdla7s1a4rgo06jm1qs5y6&rid=giphy.gif&ct=g" width="200"/>
+  <img src="https://media1.giphy.com/media/IcZhFmufozDCij3p22/giphy.gif?cid=790b76119806458f20d18ed0f1a4806b3c855f75614d1bf3&rid=giphy.gif&ct=g" width="200"/>
 </div>
 
 
