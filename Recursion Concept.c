@@ -17,7 +17,7 @@ solve(x-1);
 printf("%d",x);
 }
 
-JAGAN T M, 10:52 AM
+
 //RECURSION SAMPLE 2
 int g;
 main()
